@@ -1,0 +1,121 @@
+---
+title: MODULO 4 - INFRAESTRUCTURA CRÍTICA
+authors:
+    
+  - name: María Emilia Gullé
+    department: Facultad de Ingeniería 
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Chacras de Coria 5507
+    email: emigulle@gmail.com
+  - name: Guadalupe Gual Grossi
+    department:  Facultad de Ingeniería
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, San Martín 5570
+    email: guadalupegual03@gmail.com
+  - name: Lucía Boscafiori Ferrando
+    department: Facultad de Ingienería
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, Chacras de Coria 5507
+    email: luciaboscafiori@gmail.com
+  - name: Martín Federico Herrera
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, San Martín 5570
+    email: martinfederico.herrera@gmail.com 
+  - name: Delfina Di Paola
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, San Martín 5570
+    email: delfinadipaola2003@gmail.com
+  - name: María Paz Antich 
+    department: Facultad de Ingeniería
+    affiliation: Universidad Nacional de Cuyo
+    location: Mendoza, San Martín 5570
+    email: mariapazantich2@gmail.com
+
+abstract: 
+   En este documento se desarrolla el Módulo 4 de Infraestructura Crítica correspondiente a la materia Técnicas y Herramientas Modernas realizado por el Equipo Linces.
+
+output: rticles::arxiv_article
+---
+
+\newpage
+
+# Análisis Integral del Sector Agrícola y Alimenticio
+
+## Resumen
+
+Este documento presenta un análisis detallado del sector agrícola y alimenticio, centrándose en perfiles del sector, riesgos y estrategias para garantizar la seguridad alimentaria. El documento describe los riesgos clave como la contaminación alimentaria, la interrupción, enfermedades, plagas, eventos climáticos severos y amenazas de ciberseguridad. Se discuten estrategias para mitigar estos riesgos y mejorar la defensa alimentaria, enfatizando la importancia de medidas proactivas para proteger la cadena de suministro de alimentos. Las recomendaciones incluyen implementar protocolos sólidos de seguridad alimentaria, mejorar los sistemas de vigilancia y fomentar la colaboración entre las partes interesadas para abordar de manera efectiva las vulnerabilidades del sector. Este sector es un pilar fundamental de la sociedad, abarcando desde la producción en las granjas hasta la distribución en supermercados y restaurantes. La protección de la infraestructura crítica en este sector es esencial para garantizar la seguridad alimentaria, la salud pública y la estabilidad económica. En este paper, se examinarán los riesgos identificados en el sector y se propondrán estrategias para fortalecer la resiliencia del mismo. Se analizan las estrategias y políticas detalladas en el Plan Sectorial de Protección de Infraestructura del Sector de Alimentos y Agricultura (FA SSP) del NIPP 2015. Se enfoca en la identificación, protección y resiliencia de la infraestructura crítica dentro del sector, considerando las amenazas tanto naturales como provocadas por el hombre. Este análisis se basa en la colaboración entre el gobierno federal, estatal, local y territorial, así como la participación del sector privado. Este sector en los Estados Unidos abarca una amplia gama de actividades. En 2014, se registraron más de 935,000 restaurantes y establecimientos de servicios de alimentos, así como 114,000 supermercados y tiendas de comestibles. Además, había miles de instalaciones de alimentos registradas por la FDA y el USDA, junto con millones de granjas que producen una amplia variedad de productos agrícolas. Para proteger la infraestructura crítica de alimentos y agricultura, se requiere una coordinación efectiva entre las diferentes entidades gubernamentales y privadas. La seguridad y la resiliencia del sector agrícola y alimenticio dependen de la implementación de procesos integrados y procedimientos de defensa alimentaria. Es fundamental que se establezcan protocolos sólidos de seguridad alimentaria, se mejoren los sistemas de vigilancia y se fomente la colaboración entre todas las partes interesadas. Palabras clave: Infraestructuras críticas, resiliencia, agricultura, riesgos, sostenibilidad, fertilizantes, glifosato, seguridad.
+
+## Introducción
+
+En el siguiente informe hablaremos sobre el sector agrícola y alimenticio, en el cual utilizamos información sobre distintas fuentes las cuales se especifican en la última página. Nombramos las interrelaciones que este sector tiene con el sector de transporte y, además, con el sector químico. También, hablamos sobre los riesgos y sobre la criticidad de este sector. Finalmente, en este informe se radica sobre el uso de fertilizantes en este sector y la importancia que estos tienen debido a que su mal uso genera muchos problemas.
+
+![](images/clipboard-2603922409.png)
+
+## Desarrollo
+
+### Identificación de Infraestructura Crítica
+
+La identificación de la infraestructura crítica en el sector de alimentos y agricultura es un proceso complejo debido a la diversidad y magnitud del sector. Este proceso se lleva a cabo en colaboración con diversas agencias federales, estatales y locales, así como con socios del sector privado. Según el NIPP 2013, las infraestructuras se categorizan en cuatro niveles según el impacto potencial de su interrupción:
+
+-   Nivel 1:Infraestructuras cuya interrupción podría tener consecuencias muy significativas para la vida humana, la economía, la seguridad nacional o la propiedad.
+-   Nivel 2: Infraestructuras específicas del sector de alimentos y agricultura cuya interrupción podría tener consecuencias significativas a nivel internacional, nacional o regional.
+-   Nivel 3: Infraestructuras que no cumplen con los criterios de Nivel 1 o Nivel 2 pero que son consideradas importantes por la dirección del sector.
+-   Nivel 4: Infraestructuras identificadas por cada estado o territorio utilizando sus propios criterios.
+
+### Proceso de Recopilación y Verificación de Información
+
+La recopilación de información crítica sobre la infraestructura se realiza mediante un esfuerzo coordinado liderado por el Departamento de Seguridad Nacional (DHS). Este esfuerzo incluye llamadas anuales de datos a través del Programa Nacional de Protección de Infraestructuras Críticas (NCIPP) y visitas a sitios realizadas por asesores de seguridad protectora del DHS. La verificación de esta información es esencial para asegurar su precisión y relevancia, y se realiza mediante controles de calidad de datos y reuniones en el lugar.
+
+### Programas de Protección de Información
+
+Para fomentar la cooperación del sector privado, el DHS implementa el Programa de Información de Infraestructura Crítica Protegida (PCII), que ofrece un mecanismo para proteger la información sensible compartida por la industria. Este programa asegura que la información proporcionada sea utilizada únicamente para los propósitos declarados y esté protegida de la divulgación pública, contribuyendo así a la confianza necesaria entre el gobierno y el sector privado​​.
+
+### Resiliencia y Gestión de Riesgos
+
+El FA SSP 2015 destaca la importancia de desarrollar procesos y procedimientos integrados para mejorar la seguridad y la resiliencia del sector. Esto incluye medidas como el fortalecimiento de instalaciones, la construcción de redundancias y la implementación de medidas de ciberseguridad. Además, el sector fomenta el uso del Marco de Ciberseguridad del Instituto Nacional de Estándares y Tecnología (NIST) en coordinación con el Programa Voluntario C³, para educar a los propietarios de infraestructura crítica sobre la gestión de riesgos cibernéticos​​.
+
+### Visión General del Sector
+
+El sector agrícola y alimentario abarca una amplia gama de actividades, desde la producción hasta la distribución, impactando las cadenas de suministro alimentario a nivel global. Los componentes clave incluyen la agricultura, procesamiento de alimentos, transporte y venta al por menor. Los riesgos dentro del sector incluyen la contaminación alimentaria, la interrupción, brotes de enfermedades, eventos climáticos severos y violaciones de ciberseguridad, todos los cuales pueden tener consecuencias de gran alcance en la seguridad alimentaria. El sector agrícola y alimenticio es un componente fundamental de la economía y la sociedad en cualquier país, desempeñando un papel crucial en la seguridad alimentaria, la salud pública y el desarrollo económico. Este sector abarca una amplia gama de actividades relacionadas con la producción, procesamiento, distribución y venta de alimentos, desde la agricultura y la ganadería hasta la industria alimentaria y la comercialización de productos. En términos generales, el sector agrícola se refiere a todas las actividades relacionadas con el cultivo de cultivos, la cría de animales y la producción de materias primas agrícolas. Por otro lado, el sector alimenticio abarca la transformación de materias primas agrícolas en productos alimenticios procesados, así como su distribución y comercialización a los consumidores finales. La cadena de suministro de alimentos es un aspecto clave del sector agrícola y alimenticio, ya que garantiza que los alimentos lleguen de manera segura y eficiente a los consumidores. Esta cadena incluye diversas etapas, como la producción en las granjas, el procesamiento en las plantas de alimentos, el envasado, la distribución a través de redes de transporte y la venta al por menor en supermercados, restaurantes y otros establecimientos. La seguridad alimentaria es una preocupación importante en el sector, ya que garantizar la calidad y la inocuidad de los alimentos es esencial para proteger la salud de los consumidores. Se deben implementar medidas de control de calidad, higiene y seguridad alimentaria en todas las etapas de la cadena de suministro para prevenir la contaminación y garantizar la calidad de los alimentos. Además, la sostenibilidad ambiental es un tema cada vez más relevante en el sector agrícola y alimenticio, ya que se busca reducir el impacto negativo de las actividades agrícolas en el medio ambiente y promover prácticas agrícolas sostenibles que conserven los recursos naturales y protejan la biodiversidad.
+
+### Análisis de Riesgos
+
+La contaminación y la interrupción alimentaria representan amenazas significativas para el sector, ya sea causadas accidental o intencionalmente. Los brotes de enfermedades y las plagas pueden devastar cultivos y ganado, lo que lleva a pérdidas económicas y escasez de alimentos. Los eventos climáticos severos, como sequías e inundaciones, pueden interrumpir la producción agrícola y las redes de distribución, afectando la disponibilidad de alimentos. Además, las vulnerabilidades de ciberseguridad exponen al sector a posibles ataques que podrían comprometer la infraestructura crítica y los datos. La industria alimentaria enfrenta una variedad de amenazas que pueden afectar la seguridad alimentaria, entre las que destacan: Contaminación alimentaria: La contaminación puede ser accidental o intencional, y puede originarse por diversos factores como errores humanos, fallas en el equipo, plagas, condiciones de almacenamiento inadecuadas, residuos químicos o actos de sabotaje. Interrupción alimentaria: Las enfermedades y plagas que afectan a los animales o cultivos, eventos climáticos severos como sequías o inundaciones, y vulnerabilidades en la ciberseguridad pueden interrumpir la producción, distribución o venta de alimentos, generando escasez y poniendo en riesgo la salud pública. Las amenazas a la seguridad alimentaria pueden tener graves consecuencias para el sector, incluyendo: Pérdidas económicas: Las empresas agrícolas, ganaderas, procesadoras y distribuidoras de alimentos pueden sufrir cuantiosas pérdidas económicas debido a brotes de enfermedades, interrupciones en la producción o daños a la reputación. Escasez de alimentos: La interrupción del suministro de alimentos puede provocar desabastecimiento, aumento de precios y dificultades para acceder a alimentos básicos, especialmente para las poblaciones más vulnerables. Daños a la reputación: Brotes de enfermedades o incidentes de contaminación alimentaria pueden dañar gravemente la imagen de empresas y marcas, afectando negativamente la confianza de los consumidores. Para enfrentar estas amenazas y proteger la seguridad alimentaria, la industria alimentaria debe implementar diversas estrategias, como: Sistemas de gestión de la seguridad alimentaria: La implementación de sistemas como HACCP o ISO 22000 permite identificar, evaluar y controlar los riesgos en la cadena alimentaria. Tecnologías de seguridad alimentaria: Tecnologías como la trazabilidad de productos, el monitoreo ambiental y los sistemas de detección de patógenos pueden ayudar a prevenir y detectar la contaminación. Infraestructura y redes de distribución robustas: Fortalecer la infraestructura para resistir eventos climáticos y mejorar las redes de distribución para garantizar la continuidad del suministro. Ciberseguridad robusta: Implementar medidas de seguridad cibernética para proteger sistemas informáticos, redes de control industrial y cadenas de suministro contra ataques maliciosos. Capacitación y sensibilización: Brindar capacitación adecuada a los empleados en materia de seguridad alimentaria, buenas prácticas agrícolas y ganaderas, y respuesta a emergencias. Cooperación y comunicación: Fomentar la colaboración entre gobiernos, industria, academia y organizaciones no gubernamentales para compartir información, desarrollar estrategias conjuntas y responder de manera efectiva a las amenazas.
+
+### Estrategias para la Seguridad Alimentaria
+
+Para abordar estos riesgos de manera efectiva, las partes interesadas deben implementar estrategias proactivas para mejorar la seguridad alimentaria. Las recomendaciones incluyen invertir en tecnologías avanzadas para la trazabilidad de alimentos, establecer sistemas de vigilancia sólidos para la detección temprana de amenazas y promover el intercambio de información y la colaboración entre socios de la industria. Al adoptar un enfoque holístico para la defensa alimentaria, las partes interesadas pueden fortalecer la resiliencia del sector y garantizar el suministro continuo de alimentos seguros y nutritivos a los consumidores. Es necesario establecer protocolos sólidos de seguridad alimentaria, mejorar los sistemas de vigilancia y fomentar la colaboración entre todas las partes interesadas. La coordinación efectiva entre entidades gubernamentales, agencias reguladoras, productores, procesadores y distribuidores es fundamental para garantizar la resiliencia del sector.
+
+### Interrelaciones
+
+El sector de alimentos y agricultura tiene numerosas dependencias e interdependencias con otros sectores críticos. Estas relaciones aumentan los riesgos para el sector debido a la función y el rol de dichas dependencias, lo que puede llevar a integraciones y colaboraciones futuras para identificar y fortalecer las vulnerabilidades existentes. El sector del transporte está estrechamente interconectado, formando una cadena crítica para garantizar la seguridad alimentaria a nivel global. Desde la producción en el campo hasta el consumo en la mesa, el transporte juega un papel fundamental en cada etapa del proceso. El transporte es esencial para movilizar los insumos necesarios para la producción agrícola, como semillas, fertilizantes, pesticidas, maquinaria y equipos. Una red de transporte eficiente y confiable garantiza que los agricultores tengan acceso oportuno a estos recursos, optimizando la productividad y reduciendo costos. La distribución de productos alimenticios desde centros de distribución a minoristas y consumidores finales requiere una infraestructura de transporte robusta y logística eficiente. Una red de transporte bien organizada garantiza que los alimentos lleguen a los mercados en el tiempo adecuado, a precios accesibles y en condiciones óptimas para su consumo. Las interrupciones en el transporte, como desastres naturales, huelgas o conflictos políticos, pueden tener graves consecuencias para la seguridad alimentaria. La escasez de combustible, el bloqueo de carreteras o la falta de contenedores pueden afectar la disponibilidad de alimentos, generar aumento de precios y poner en riesgo la nutrición de las poblaciones vulnerables. El sector agrícola y alimentario y el sector químico mantienen una relación compleja y crucial para el desarrollo de la agricultura moderna y la producción de alimentos a gran escala. Si bien a primera vista pueden parecer sectores independientes, su interacción es fundamental para garantizar la productividad, la calidad y la seguridad de los alimentos. El sector químico proporciona una amplia gama de insumos esenciales para la agricultura, como fertilizantes, pesticidas, herbicidas y semillas mejoradas. Estos insumos contribuyen a aumentar la productividad de los cultivos, controlar plagas y enfermedades, y mejorar la calidad nutricional de los alimentos. Además, se produce una variedad de materiales para empaques, como plásticos, aluminio, vidrio y papel, que son esenciales para proteger los alimentos durante el transporte, almacenamiento y venta al consumidor. Estos empaques deben cumplir con estrictos estándares de seguridad alimentaria para garantizar la integridad y calidad de los productos.
+
+### Criticidad
+
+Este sector ocupa un lugar fundamental en el desarrollo económico y social de las naciones, y su importancia radica en aspectos que van más allá de la simple producción de alimentos. Abastecer a una población creciente con alimentos seguros y nutritivos es una necesidad básica y un derecho humano fundamental. El sector agrícola y alimentario juega un papel crucial en garantizar la disponibilidad de alimentos en cantidad y calidad suficientes para satisfacer las necesidades nutricionales de las personas en todo el mundo. Además, la agricultura es un motor fundamental del crecimiento económico en muchos países, especialmente en aquellos en vías de desarrollo. Genera empleo, ingresos y oportunidades de negocio en zonas rurales, contribuyendo a la reducción de la pobreza y al bienestar de las comunidades. Este sector también juega un papel fundamental en la salud de las personas ya que la producción de alimentos seguros y nutritivos puede ayudar a prevenir enfermedades como la obesidad, la desnutrición, las enfermedades cardíacas y el cáncer.
+
+### Uso de fertilizantes que contienen glifosatos en el sector agrícola:
+
+El uso de fertilizantes que contienen glifosato en el sector agrícola presenta una serie de ventajas y desventajas. Si bien su efectividad para el control de malezas y el aumento de la productividad agrícola es innegable, las preocupaciones sobre su impacto ambiental y potencial para la salud humana no pueden ser ignoradas. Es fundamental realizar investigaciones más profundas y adoptar un enfoque de precaución para regular su uso, buscando alternativas sostenibles y menos dañinas para el medio ambiente y la salud pública. La producción y el uso de fertilizantes en la agricultura moderna son elementos críticos para la seguridad alimentaria mundial, pero también presentan importantes desafíos en términos de sostenibilidad ambiental y económica. La interconexión entre el sector agrícola, el sector de transporte y el sector químico es fundamental para comprender la criticidad del uso de fertilizantes y sus impactos multifacéticos. La producción y el uso de fertilizantes dependen en gran medida de los siguientes sectores: Sector de transporte: El transporte de materias primas, como minerales fosfóricos, potásicos y nitrógeno, desde los sitios de extracción hasta las plantas de producción de fertilizantes, y la distribución de los fertilizantes terminados a los agricultores, requieren una infraestructura de transporte eficiente y sostenible. Sector químico: La industria química proporciona los insumos básicos para la producción de fertilizantes, como amoníaco, ácido fosfórico y ácido potásico. Además, el desarrollo de nuevos fertilizantes más eficientes y sostenibles depende de la innovación tecnológica del sector químico.
+
+## Conclusión
+
+En conclusión, el sector agrícola y alimenticio enfrenta riesgos multifacéticos que requieren esfuerzos coordinados para mitigar y gestionar de manera efectiva. Al priorizar la seguridad alimentaria, las partes interesadas pueden salvaguardar la integridad de la cadena de suministro de alimentos y proteger la salud pública. La investigación continua, la innovación y la colaboración son esenciales para abordar las amenazas emergentes y construir un sector agrícola y alimenticio más resiliente y sostenible para el futuro. La protección de la infraestructura crítica en el sector de alimentos y agricultura es una tarea compleja y vital para la seguridad nacional. Requiere una colaboración estrecha entre múltiples niveles de gobierno y el sector privado, la recopilación y verificación constante de información crítica, y la implementación de programas y medidas de seguridad adaptadas a las amenazas emergentes. El FA SSP 2015 proporciona un marco detallado para guiar estos esfuerzos y asegurar la resiliencia del sector frente a diversas amenazas. La criticidad de este sector en el mundo actual está estrechamente vinculada al uso de fertilizantes y su interrelación con el sector de transporte y el sector químico. Un enfoque integral que promueva la sostenibilidad en cada sector y la colaboración intersectorial es fundamental para garantizar la seguridad alimentaria, proteger el medio ambiente y asegurar la viabilidad económica del sector agrícola a largo plazo.
+
+\newpage
+
+## Referencias
+
+-   [United States Department of Agriculture, Meat, Poultry and Egg Product Inspection Directory, (2015).](http://www.fsis.usda.gov/wps/portal/fsis/topics/inspection/mpi-directory)
+
+-   [National Agricultural Statistics Service, 2012 Census of Agriculture (2012).](http://www.agcensus.usda.gov/Publications/2012/)
+
+-   [Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO):](https://www.fao.org/home/en)
+
+-   [Fondo Internacional de Desarrollo Agrícola (FIDA)](https://www.ifad.org/en/)
+
+-   [Organización Mundial de la Salud (OMS): Glifosato y salud pública:](https://www.bbc.com/mundo/ultimas_noticias/2015/03/150327_ultnot_glifosato_cancerigeno_monsanto_oms_polemica_aw)
+
+-   [Red de Acción en Plaguicidas y Salud (RAPSAL): Glifosato:](https://rap-al.org/)
